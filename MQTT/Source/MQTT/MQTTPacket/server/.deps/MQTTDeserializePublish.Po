@@ -1,0 +1,74 @@
+MQTTDeserializePublish.o: MQTTDeserializePublish.c StackTrace.h \
+ /home/steven/share/tools/arm_linux_4.4/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/stdio.h \
+ /home/steven/share/tools/arm_linux_4.4/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/features.h \
+ /home/steven/share/tools/arm_linux_4.4/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/sys/cdefs.h \
+ /home/steven/share/tools/arm_linux_4.4/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/wordsize.h \
+ /home/steven/share/tools/arm_linux_4.4/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/gnu/stubs.h \
+ /home/steven/share/tools/arm_linux_4.4/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/include/stddef.h \
+ /home/steven/share/tools/arm_linux_4.4/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/types.h \
+ /home/steven/share/tools/arm_linux_4.4/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/typesizes.h \
+ /home/steven/share/tools/arm_linux_4.4/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/libio.h \
+ /home/steven/share/tools/arm_linux_4.4/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/_G_config.h \
+ /home/steven/share/tools/arm_linux_4.4/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/wchar.h \
+ /home/steven/share/tools/arm_linux_4.4/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/include/stdarg.h \
+ /home/steven/share/tools/arm_linux_4.4/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/stdio_lim.h \
+ /home/steven/share/tools/arm_linux_4.4/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/sys_errlist.h \
+ /home/steven/share/tools/arm_linux_4.4/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/stdio.h \
+ MQTTPacket.h MQTTConnect.h MQTTPublish.h MQTTSubscribe.h \
+ MQTTUnsubscribe.h MQTTFormat.h \
+ /home/steven/share/tools/arm_linux_4.4/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/string.h \
+ /home/steven/share/tools/arm_linux_4.4/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/string.h \
+ /home/steven/share/tools/arm_linux_4.4/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/string2.h \
+ /home/steven/share/tools/arm_linux_4.4/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/stdlib.h
+
+StackTrace.h:
+
+/home/steven/share/tools/arm_linux_4.4/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/stdio.h:
+
+/home/steven/share/tools/arm_linux_4.4/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/features.h:
+
+/home/steven/share/tools/arm_linux_4.4/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/sys/cdefs.h:
+
+/home/steven/share/tools/arm_linux_4.4/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/wordsize.h:
+
+/home/steven/share/tools/arm_linux_4.4/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/gnu/stubs.h:
+
+/home/steven/share/tools/arm_linux_4.4/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/include/stddef.h:
+
+/home/steven/share/tools/arm_linux_4.4/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/types.h:
+
+/home/steven/share/tools/arm_linux_4.4/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/typesizes.h:
+
+/home/steven/share/tools/arm_linux_4.4/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/libio.h:
+
+/home/steven/share/tools/arm_linux_4.4/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/_G_config.h:
+
+/home/steven/share/tools/arm_linux_4.4/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/wchar.h:
+
+/home/steven/share/tools/arm_linux_4.4/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/include/stdarg.h:
+
+/home/steven/share/tools/arm_linux_4.4/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/stdio_lim.h:
+
+/home/steven/share/tools/arm_linux_4.4/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/sys_errlist.h:
+
+/home/steven/share/tools/arm_linux_4.4/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/stdio.h:
+
+MQTTPacket.h:
+
+MQTTConnect.h:
+
+MQTTPublish.h:
+
+MQTTSubscribe.h:
+
+MQTTUnsubscribe.h:
+
+MQTTFormat.h:
+
+/home/steven/share/tools/arm_linux_4.4/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/string.h:
+
+/home/steven/share/tools/arm_linux_4.4/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/string.h:
+
+/home/steven/share/tools/arm_linux_4.4/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/string2.h:
+
+/home/steven/share/tools/arm_linux_4.4/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/stdlib.h:
